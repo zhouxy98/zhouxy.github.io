@@ -6,49 +6,13 @@
     <description>Recent content in Tags on Xinyu Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2021 16:12:29 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jun 2019 16:04:19 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ai</title>
       <link>/tags/ai/</link>
-      <pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate>
+      <pubDate>Fri, 07 Jun 2019 16:04:19 -0700</pubDate>
       
       <guid>/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep_learning</title>
-      <link>/tags/deep_learning/</link>
-      <pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate>
-      
-      <guid>/tags/deep_learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural_networks</title>
-      <link>/tags/neural_networks/</link>
-      <pubDate>Mon, 11 Jan 2021 16:12:29 -0700</pubDate>
-      
-      <guid>/tags/neural_networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ml</title>
-      <link>/tags/ml/</link>
-      <pubDate>Tue, 12 May 2020 16:11:56 -0700</pubDate>
-      
-      <guid>/tags/ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>startups</title>
-      <link>/tags/startups/</link>
-      <pubDate>Tue, 12 May 2020 16:11:56 -0700</pubDate>
-      
-      <guid>/tags/startups/</guid>
       <description></description>
     </item>
     
@@ -71,11 +35,11 @@
     </item>
     
     <item>
-      <title>economy</title>
-      <link>/tags/economy/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <title>ml</title>
+      <link>/tags/ml/</link>
+      <pubDate>Fri, 07 Jun 2019 16:04:19 -0700</pubDate>
       
-      <guid>/tags/economy/</guid>
+      <guid>/tags/ml/</guid>
       <description></description>
     </item>
     
